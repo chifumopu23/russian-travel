@@ -11,6 +11,6 @@
 @media (max-width: 425px) {
   .cover__subtitle {
     font-size: 14px;
-    /* margin: 0 16px; */
+    margin-top: 16px;
   }
 }
