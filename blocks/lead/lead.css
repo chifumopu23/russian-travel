@@ -7,12 +7,12 @@
 @media (max-width: 1024px) {
   .lead {
     margin-top: 48px;
-    max-width: 928px;
+    max-width: calc(100% - 96px);
   }
 }
 
-@media (max-width: 320px) {
+@media (max-width: 768px) {
   .lead {
-    max-width: 320px;
+    max-width: 100%;
   }
 }

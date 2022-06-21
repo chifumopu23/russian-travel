@@ -3,6 +3,11 @@
   background-size: cover;
   width: 176px;
   height: 52px;
+  transition: .3s ease-out;
+}
+
+.header__logo:hover {
+  opacity: .3;
 }
 
 @media (max-width: 425px) {
